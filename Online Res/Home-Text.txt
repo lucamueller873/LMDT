@@ -1,4 +1,4 @@
- LMsDT 1.0 (Beta)
+LMsDT 1.0 (Beta)
 
- Welcome!
- This Software is in development!
+Welcome!
+This App is in development!
